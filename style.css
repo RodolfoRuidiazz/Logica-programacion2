@@ -1,0 +1,13 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+    background-image: url(/img/temperatura.png);
+    background-position: center;       
+    background-repeat: no-repeat;       
+    height: 100vh;     
+}
+
+#resultado {
+    margin-top: 20px;
+    font-size: 18px;
+}
